@@ -16,3 +16,91 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+section {
+    width: 100%;
+    max-width: 1000px;
+     background: white;
+    margin: 80px auto;
+    padding: 30px;
+    color: #437782;
+    -webkit-box-shadow: 0px 15px 28px -1px #ccc;
+    -moz-box-shadow: 0px 15px 28px -1px #ccc;
+    box-shadow: 0px 15px 28px -1px #ccc;
+  
+
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 3em;
+}
+
+h3{
+    font-family: 'Roboto Slab', serif;
+    font-size: 2em;
+
+}
+
+#headings {
+    width: 100%;
+    max-width: 1000px;
+    background: white;
+    margin: 80px auto;
+    padding: 30px;
+    color: #437782;
+    -webkit-box-shadow: 0px 15px 28px -1px #ccc;
+    -moz-box-shadow: 0px 15px 28px -1px #ccc;
+    box-shadow: 0px 15px 28px -1px #ccc;
+}
+
+
+
+.btn {
+    margin: 10px;
+    width: 262.92px;
+    height: 55.93px;
+    text-align: center;
+    text-transform: uppercase;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 50px;
+    display: block;
+    line-height: 50px;
+}
+
+.btn-1{
+
+    width: 200px;
+    height: 50px;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    background-color: #54BFD6;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 25px;
+    display: block;
+}
+
+.btn-2{
+
+    width: 200px;
+    height: 50px;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    border: 2px solid #707070;
+    color: #707070;
+    display: block;
+}
+
+img{
+  
+    max-width: 1000px;
+    background: white;
+    margin: 80px auto;
+    padding: 30px;
+    color: #437782;
+    -webkit-box-shadow: 0px 15px 28px -1px #ccc;
+    -moz-box-shadow: 0px 15px 28px -1px #ccc;
+    box-shadow: 0px 15px 28px -1px #ccc;
+     display: block;
+}
